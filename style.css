@@ -1,0 +1,208 @@
+nav{
+	opacity:0.5;
+}
+#main{
+	
+	background-color: red;
+	margin: auto;
+	padding: 27.5%;
+	margin-top: -10%;
+	
+
+}
+.topnav input[type=text] {
+  float: right;
+  padding: 6px;
+  margin-top: 8px;
+  margin-right: 50px;
+  border: none; 
+  font-size: 17px;
+}
+
+#heading {
+	margin-top: -2%;
+	color:rgb(15, 15, 124);
+	font-size: 200%;
+}
+
+#firstbutton{
+	margin: 3%;
+
+}
+
+
+
+#main p{
+	font-size: 100%;
+	color: rgb(11, 19, 11) solid;
+
+}
+hr{
+	border: 2px #1B5E20 solid;
+}
+
+#aboutus{
+	margin-top: 5%;
+	padding: 10%;
+}
+
+
+#aboutus img{
+	/*margin-top: 10%;*/
+	width: 70%;
+	margin-left: 15%;
+}
+
+#aboutagri h2{
+       color: #1B5E20;
+}
+
+#aboutagri h5{
+       color: #1B5E20;
+       margin-left: 10%;
+}
+
+	
+
+#learn-more{
+	background-color: transparent;
+	border: 1px #1B5E20 solid;
+	color: #1B5E20;
+}
+
+#learn-more:hover{
+	background-color: #1B5E20;
+	color: white;
+}
+
+#gallery{
+	padding-bottom: 5%;
+
+}
+
+.gallery-agile-grids img{
+      width: 360px;
+      height: 240px;
+
+}
+
+#gallery-row{
+	width: 90%;
+	margin-left: 2%;
+}
+
+
+/*#company{
+
+	padding: 20%;
+}*/
+#body{
+background: none;
+}
+
+#footer{
+	background-color: #303826;
+	
+	padding: 5%;
+	font-size: 18px;
+	color: rgb(238, 241, 236);
+	opacity: 0.6;
+}
+.btnfooter{
+	background-color: transparent;
+	border: 1px rgb(17, 130, 206) solid;
+	color: #ECEFF1;
+	/*margin-left: 1%;*/
+}
+
+#footer a{
+	color: white;
+	text-decoration: none;
+}
+
+#footer a:hover
+
+
+/*styling the forms*/
+
+#form{
+	/*margin-top: 10%;*/
+	padding: 10%;
+}
+.bg{ background-repeat: no-repeat; background-size: cover; width: 100%; height: 100%}
+.form-group{border: 0px solid black; padding: 50px 60px; margin-top: 20px;
+ -webkit-box-shadow: -1px 4px 26px 11px #9E9E9E;  
+  -moz-box-shadow:    -1px 4px 26px 11px #9E9E9E;  
+  box-shadow:         -1px 4px 26px 11px #9E9E9E;
+  margin-top: 20%;
+/* padding: 15%;*/
+   }
+
+  label{
+  	font-weight: bold;
+  }
+
+  /*.btn-submit{
+   background-color: transparent;
+	border: 2px #1B5E20 solid;
+	color: #1B5E20;
+
+  }*/
+
+ /*.btn-submit:hover{
+ 	background-color: #1B5E20;
+	color: white;
+ }*/
+
+ /*admin dashboard*/
+ .sidenav {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #111;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+}
+
+.sidenav a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #a1286f;
+    display: block;
+    transition: 0.3s;
+}
+
+.sidenav a:hover {
+    color: #f1f1f100;
+}
+
+.sidenav .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+
+.admin h1{
+	margin-top: 30%;
+}
+
+/*purchase page*/
+
+
+body{
+	background-color: #1B5E20;
+}
+
+	

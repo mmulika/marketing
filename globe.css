@@ -1,0 +1,22 @@
+.col-md-2 a{
+	color:  rgb(37, 219, 49);
+	text-decoration: none;
+	background-color:transparent;
+	padding: 5px 25px;
+    text-align: center;
+}
+
+.col-md-2 a:hover{
+	color:  rgb(107, 114, 107);
+}
+
+.col-md-3{
+	 width: 280px;
+    padding: 10px;
+    border: 1px solid gray;
+    margin: 0;
+}
+
+.col-md-3 p{
+	color: rgb(94, 27, 72);
+}
